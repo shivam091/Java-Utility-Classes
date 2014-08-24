@@ -10,7 +10,7 @@ Downloads are also available on the [GitHub project's Downloads section] (https:
 
 ##Packages
 
-com.utilities.collections:
-com.utilities.collections.hashmap:
-com.utilities.regex:
-com.utilities.regex.patterns:
+###com.utilities.collections:
+###com.utilities.collections.hashmap:
+###com.utilities.regex:
+###com.utilities.regex.patterns:
