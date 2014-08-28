@@ -1,4 +1,4 @@
-package com.util.regex.patterns;
+package org.util.regex.patterns;
 
 /**
  * pattern constants for regular expressions.
